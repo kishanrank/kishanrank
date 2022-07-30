@@ -23,7 +23,7 @@
 <a href="mailto:kishanrank763@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/kishan_rank_official"><img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/kishan_rank"><img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://medium.com/@kishanrank763" target="_blank">
+<a href="https://medium.com/@kishanrank" target="_blank">
 <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="elanza48"/>
 </a>
 </p>
