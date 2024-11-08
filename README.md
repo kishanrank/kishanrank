@@ -1,13 +1,11 @@
-<h1 align="center">Hi there👋, I'm Kishan Rank</h1>
+<h1 align="center">Hi there👋, I'm <a href="https://kishanrank.com/" target="_blank">Kishan Rank</a></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+Stack+Developer+and+Software+Engineer;Laravel+Developer+with+3+Years+Of+Experience;Passionate+about+Laravel+and+Vue.JS" height="40"/>
 
 ###  About Me :
 - 💼 I’ve graduated with a <strong>Bachelor's degree in Computer Science.</strong>
-- 🔭 I’m currently working on <strong>PHP, Laravel, Vue.JS, Alpine.JS, Livewire, Flutter</strong> with  <strong>
-     <a href="https://www.hauper.com">Hauper Technology</a></strong>
-- 🌱 I’m currently learning <strong>React.JS, Flutter, Inertia.</strong>
-- 🤔 I’m looking for help with <strong>AWS,  Google Cloud.</strong>
+- 🔭 I’m currently working on <strong>PHP, Laravel, Symfony, Vue.JS, Alpine.JS, Livewire, Nuxt.js, React.js, Node.js, Flutter</strong>
+- 🌱 I’m currently learning <strong> Extension Building and AI models.</strong>
 - 💬 Ping me about **Laravel**, **Vue.JS**, **Development**, **Design**.
 -  ✔ Ask me anything about <strong>PHP, Laravel, Vue.JS</strong>. I am happy to help.
   
