@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm <a href="https://kishanrank.com/" target="_blank">Kishan Rank</a></h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+Stack+Developer+and+Software+Engineer;Laravel+Developer+with+3+Years+Of+Experience;Passionate+about+Laravel+and+Vue.JS" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+Stack+Developer+and+Software+Engineer;Laravel+Developer+with+5+Years+Of+Experience;Passionate+about+Laravel+and+Vue.JS" height="40"/>
 
 ###  About Me :
 - 💼 I’ve graduated with a <strong>Bachelor's degree in Computer Science.</strong>
